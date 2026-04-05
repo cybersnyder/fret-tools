@@ -1,0 +1,7 @@
+# Generated output — don't commit PDFs
+fret_template_*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
